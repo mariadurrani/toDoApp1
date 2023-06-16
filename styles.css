@@ -69,6 +69,10 @@ button {
     margin-bottom: 25px;
 }
 
+button:hover {
+    background-color: rgb(224, 126, 110)
+}
+
 ul li {
     list-style: none;
     font-size: 14px;
