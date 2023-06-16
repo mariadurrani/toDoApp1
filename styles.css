@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(Poppins/Poppins-Bold.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+    box-sizing: border-box;
+}
+
+.container {
+width: 100%;
+min-height: 100vh;
+background: linear-gradient(135deg, #153677, #4e085f);
+padding: 10px;
+}
+
