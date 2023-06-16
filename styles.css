@@ -19,7 +19,7 @@
 
 .todo-app {
     width: 100%;
-    max-width: 540px;
+    max-width: 600px;
     background: #fff;
     margin: 100px auto 20px;
     padding: 40px 30px;
@@ -55,7 +55,7 @@
     margin-bottom: 25px;
     outline: none;
     padding: 10px;
-    width: 180px;
+    width: 210px;
 }
 
 button {
@@ -71,8 +71,8 @@ button {
 
 ul li {
     list-style: none;
-    font-size: 16px;
-    padding: 12px 8px 12px 50px;
+    font-size: 14px;
+    padding: 15px 10px 20px 50px;
     user-select: none;
     cursor: pointer;
     position: relative;
@@ -126,11 +126,11 @@ white-space: nowrap;
 }
 
 .creation-date {
-    margin-right: 32%;
+    margin-right: 30%;
 }
 
 .completion-date {
-    margin-right: 37%;
+    margin-right: 34%;
     color: green;
 }
 
